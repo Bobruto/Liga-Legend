@@ -1,0 +1,45 @@
+   .videjko {
+            width: 90%;
+            height: auto;
+            padding-left: 80px;
+            margin-bottom: 70px;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+            font-size: 50px;
+            justify-content: space-between;
+
+        }
+
+        nav a:hover {
+            color: rgba(255, 217, 0, 0.707);
+            background-color: gray;
+            border-radius: 25px;
+            height: 150px;
+            padding: 5px;
+            text-decoration: underline;
+            text-decoration-color: rgb(41, 155, 208);
+            text-underline-position: under;
+        }
+
+        nav {
+            margin-left: 20px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            word-spacing: 20px;
+            margin-left: 30px;
+            background-color: black;
+        }
+
+        body {
+            background-image: url(../img/Banner_Preseason-1_dwfwpnp0byzkpe2hk65v.jpg);
+        }
+
+        img {
+            width: 15%;
+        }
